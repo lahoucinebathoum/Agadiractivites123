@@ -1,16 +1,56 @@
-# React + Vite
+# 🌍 Agadir Activities – Discover Agadir
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Agadir Activities** is a web application built with React.js and Vite, designed to help users discover activities, entertainment, and places of interest in Agadir, Morocco.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** – Frontend development
+- **JavaScript (ES6+)** – Application logic
+- **Vite** – Development environment and build tool
+- **CSS3** – User interface styling
+- **Git & GitHub** – Version control and project management
 
-## React Compiler
+## ✨ Main Objectives
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Discover activities and places in Agadir.
+- Provide an accessible and user-friendly interface.
+- Organize information about local activities.
+- Develop a responsive web experience.
 
-## Expanding the ESLint configuration
+## 🛠️ Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone https://github.com/lahoucinebathoum/Agadiractivites123.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 👨‍💻 Developer
+
+**Lahoucine Bathoum**
+
+Frontend Developer | React.js | JavaScript | Web Development
+
+- GitHub: https://github.com/lahoucinebathoum
+
+---
+
+*Developed as a web development project using React.js and Vite.*
